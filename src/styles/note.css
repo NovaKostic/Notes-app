@@ -1,0 +1,25 @@
+.note {
+    width: 28%;
+    height: 330px;
+    background: #B6D333;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 15px;
+    display: inline-block;
+    margin-right: 26px;
+    background-image: url("../images/note.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.note .content {
+    padding: 45px 71px;
+}
+.note h5 {
+    font-size: 19px;
+    font-family: sans-serif;
+}
+.note p {
+    font-size: 18px;
+}
